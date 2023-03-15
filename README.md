@@ -7,4 +7,7 @@ My repository for the three GitHub sessions through Brock Univsersity;
 2. 2nd Session
 3. [3rd Session](https://brockdsl.github.io/Making-a-Free-Webpage-with-GitHub-Pages/)
 
+
+
+***Here's a lovely image of myself***
 ![Here's a lovely image of myself](/JohnsonDanMoodle4.jpg)
